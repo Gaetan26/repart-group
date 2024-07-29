@@ -36,3 +36,7 @@ python -m pip install -r requirements.txt
 
 Votre environnement virtuel crée et prêt à l'emploi il ne vous reste plus qu'à lancer le programme avec une instruction `python app.py`
 
+
+
+https://github.com/user-attachments/assets/bcf40586-9569-48ef-8594-20486640669b
+
